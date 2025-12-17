@@ -60,5 +60,5 @@ Master AI tools through hands-on building, creating a portfolio of real-world pr
 | Case Studies | 10 | 0 |
 | Hours Invested | 500 | 0 |
 ---
-*Last Updated: December 2024*
-*Started: December 2024*
+*Last Updated: December 2025*
+*Started: December 2025*

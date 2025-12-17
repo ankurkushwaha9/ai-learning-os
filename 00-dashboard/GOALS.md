@@ -4,7 +4,7 @@
 
 ## 🌟 12-Month Vision
 
-By December 2025, I will be an advanced AI builder capable of:
+By December 2026, I will be an advanced AI builder capable of:
 - Building production-ready AI applications
 - Offering freelance AI building services
 - Having a portfolio of 50+ projects
@@ -53,4 +53,4 @@ By December 2025, I will be an advanced AI builder capable of:
 
 ---
 
-*Updated: December 2024*
+*Updated: December 2025*

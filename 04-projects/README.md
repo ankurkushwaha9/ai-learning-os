@@ -19,7 +19,7 @@
 
 | # | Project | Category | Status | Date |
 |---|---------|----------|--------|------|
-| 1 | AI Learning OS | Major | 🟢 Active | Dec 2024 |
+| 1 | AI Learning OS | Major | 🟢 Active | Dec 2025 |
 | | | | | |
 
 **Total Projects:** 1

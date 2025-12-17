@@ -14,7 +14,7 @@
 
 ## 📅 Weekly Progress
 
-### Week 1 (Dec 16-22, 2024)
+### Week 1 (Dec 16-22, 2025)
 
 | Day | Activity | Hours | Notes |
 |-----|----------|-------|-------|
@@ -62,7 +62,7 @@
 
 ## 📝 Monthly Reflections
 
-### Month 1 - December 2024
+### Month 1 - December 2025
 
 **What went well:**
 - Started the journey!
@@ -75,4 +75,4 @@
 
 ---
 
-*Updated: December 2024*
+*Updated: December 2025*
