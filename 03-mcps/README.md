@@ -1,51 +1,31 @@
-# ⚡ MCP Documentation
-
-> Model Context Protocol - Extending Claude's capabilities
-
+# ⚡ My MCP Collection
+> Model Context Protocol integrations that extend Claude's capabilities
 ---
-
-## 📁 Contents
-
-| Section | Description |
-|---------|-------------|
-| [What are MCPs](./overview.md) | Understanding MCPs |
-| [Active MCPs](./active/) | Currently configured MCPs |
-| [MCP Ideas](./ideas.md) | MCPs to explore |
-
+## 📊 Overview
+| Total MCPs | Active | In Development |
+|------------|--------|----------------|
+| 2 | 2 | 0 |
 ---
-
-## 🌟 What are MCPs?
-
-MCPs (Model Context Protocol) allow Claude to:
-- Access external tools and services
-- Read/write files
-- Make API calls
-- Interact with databases
-- Connect to various platforms
-
-Think of them as "plugins" that extend what Claude can do.
-
+## 🟢 Active MCPs
+| MCP | Purpose | Guide | Status |
+|-----|---------|-------|--------|
+| GitHub | Repository management, push code, manage files | [Setup Guide](./active/github-mcp.md) | ✅ Active |
+| VAPI | Voice AI calls, phone agents, transcripts | [Setup Guide](./active/vapi-mcp.md) | ✅ Active |
 ---
-
-## ⚡ Currently Active MCPs
-
-| MCP | Purpose | Status |
-|-----|---------|--------|
-| GitHub | Repository management | 🟢 Active |
-| VAPI | Voice AI calls | 🟢 Active |
-| (Add more as configured) | | |
-
+## 🚀 What Are MCPs?
+MCPs (Model Context Protocol) are integrations that allow Claude Desktop to connect with external tools and services. Instead of just chatting, Claude can:
+- **Take actions** (create repos, make calls)
+- **Access data** (read files, get transcripts)
+- **Automate workflows** (push code, manage projects)
 ---
-
-## 📝 Documentation Standard
-
-For each MCP, document:
-1. **Purpose** - What it does
-2. **Setup** - How to configure
-3. **Commands** - Available actions
-4. **Examples** - Real use cases
-5. **Limitations** - What it can't do
-
+## 🎯 My MCP Journey
+### Completed ✅
+1. **GitHub MCP** - Now I can manage my repositories directly from Claude
+2. **VAPI MCP** - Now I can build and control voice AI agents
+### Planned 📋
+- File System MCP (local file management)
+- Google Drive MCP (cloud storage)
+- Slack MCP (team communication)
+- Database MCP (data management)
 ---
-
-*MCPs are superpowers - use them wisely!*
+## 📁 Folder Structure
