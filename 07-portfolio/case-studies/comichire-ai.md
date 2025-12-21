@@ -19,10 +19,17 @@
 
 ## 📸 Screenshots
 
-### Generated Comic Panels
-*AI-generated 8-panel comic narrative showcasing your career story*
+### Generated Comic Panels - Example 1
+*AI transforms your resume into a cinematic career story*
 
-![ComicHire AI - Generated Comic Panels](https://raw.githubusercontent.com/ankurkushwaha9/cold-outreach-comichire-ai/main/image.png)
+![ComicHire AI - Comic Panels Example 1](https://raw.githubusercontent.com/ankurkushwaha9/cold-outreach-comichire-ai/main/image.png)
+
+---
+
+### Full 8-Panel Visual Narrative
+*Complete narrative arc from Analysis to Mission*
+
+![ComicHire AI - Visual Narrative](https://raw.githubusercontent.com/ankurkushwaha9/cold-outreach-comichire-ai/main/visual-narrative.png)
 
 ---
 
@@ -63,12 +70,12 @@ Create an AI-powered tool that transforms traditional resumes into engaging **8-
 
 | Panel | Title | Description |
 |-------|-------|-------------|
-| 1 | **THE ORIGIN** | Hero analyzing the company landscape |
-| 2 | **THE ARSENAL** | Visualizing core tech stack |
+| 1 | **THE ANALYSIS** | Hero analyzing the company landscape |
+| 2 | **THE ARSENAL** | Visualizing core tech stack & certifications |
 | 3 | **THE CHALLENGE** | Identifying company bottlenecks |
 | 4 | **THE STRATEGY** | Mapping solutions with unique qualifications |
-| 5 | **THE DEPLOYMENT** | Building with specific tools |
-| 6 | **THE OPTIMIZATION** | Fine-tuning and technical mastery |
+| 5 | **THE DEPLOYMENT** | Building with specific tools (CI/CD, SQL) |
+| 6 | **THE OPTIMIZATION** | Fine-tuning and compliance mastery |
 | 7 | **THE SYNERGY** | Team collaboration and leadership |
 | 8 | **THE MISSION** | Ready to deliver value |
 
