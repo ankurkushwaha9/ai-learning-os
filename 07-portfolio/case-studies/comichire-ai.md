@@ -17,6 +17,15 @@
 
 ---
 
+## 📸 Screenshots
+
+### Generated Comic Panels
+*AI-generated 8-panel comic narrative showcasing your career story*
+
+![ComicHire AI - Generated Comic Panels](https://raw.githubusercontent.com/ankurkushwaha9/cold-outreach-comichire-ai/main/image.png)
+
+---
+
 ## 🎯 The Challenge
 
 ### Problem Statement
@@ -52,14 +61,16 @@ Create an AI-powered tool that transforms traditional resumes into engaging **8-
 
 ### The 8-Panel Narrative Arc
 
-1. **The Origin** - Hero analyzing the company landscape
-2. **The Arsenal** - Visualizing core tech stack
-3. **The Challenge** - Identifying company bottlenecks
-4. **The Strategy** - Mapping solutions with unique qualifications
-5. **The Deployment** - Building with specific tools
-6. **The Optimization** - Fine-tuning and technical mastery
-7. **The Synergy** - Team collaboration and leadership
-8. **The Mission** - Ready to deliver value
+| Panel | Title | Description |
+|-------|-------|-------------|
+| 1 | **THE ORIGIN** | Hero analyzing the company landscape |
+| 2 | **THE ARSENAL** | Visualizing core tech stack |
+| 3 | **THE CHALLENGE** | Identifying company bottlenecks |
+| 4 | **THE STRATEGY** | Mapping solutions with unique qualifications |
+| 5 | **THE DEPLOYMENT** | Building with specific tools |
+| 6 | **THE OPTIMIZATION** | Fine-tuning and technical mastery |
+| 7 | **THE SYNERGY** | Team collaboration and leadership |
+| 8 | **THE MISSION** | Ready to deliver value |
 
 ---
 
@@ -186,17 +197,6 @@ Create an AI-powered tool that transforms traditional resumes into engaging **8-
 | Multiple narrative templates | Medium | Low |
 | Save/load previous generations | Medium | High |
 | Team/company branding options | Low | Medium |
-
----
-
-## 📸 Screenshots
-
-*[Screenshots would be added here]*
-
-- Input form with resume upload
-- Generated comic panels grid
-- Cold email output section
-- Mobile responsive view
 
 ---
 
