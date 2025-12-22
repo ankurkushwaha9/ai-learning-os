@@ -14,6 +14,17 @@ Medium projects are for:
 
 ---
 
+## 📊 Completed Medium Projects
+
+| # | Project | Duration | Status | Tech Stack | Case Study |
+|---|---------|----------|--------|------------|------------|
+| 1 | 🤖 [AI Request Desk](./ai-consulting.md) | 2 days | ✅ Complete | React, Node.js, PostgreSQL | [View](./ai-consulting.md) |
+| 2 | 💳 [Credit Card Transaction Extractor](./credit-card-transaction-extractor.md) | 1 day | ✅ Complete | React, Node.js, pdf-parse | [View](./credit-card-transaction-extractor.md) |
+
+**Total Completed:** 2/15
+
+---
+
 ## 📋 Medium Project Ideas
 
 ### Voice Applications
@@ -31,13 +42,10 @@ Medium projects are for:
 - [ ] Code review assistant
 - [ ] Meeting notes processor
 
----
-
-## 📊 Completed Medium Projects
-
-| # | Project | Duration | Status | Case Study |
-|---|---------|----------|--------|------------|
-| | | | | |
+### Finance
+- [x] ~~Credit card statement parser~~ ✅
+- [ ] Expense categorization tool
+- [ ] Budget tracker with AI insights
 
 ---
 
