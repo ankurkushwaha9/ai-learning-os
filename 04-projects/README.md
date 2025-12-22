@@ -22,12 +22,30 @@
 | 1 | 🧠 AI Learning OS | Major | 🟢 Active | Markdown, GitHub | Dec 2025 | [Repo](https://github.com/ankurkushwaha9/ai-learning-os) |
 | 2 | 🦸‍♂️ ComicHire AI | Medium | ✅ Complete | React, TypeScript, Gemini AI, Vite | Dec 2025 | [Repo](https://github.com/ankurkushwaha9/cold-outreach-comichire-ai) • [Demo](https://ai.studio/apps/drive/1AXOkgSTpzu-t23K2IREjx_nyljhspGrG) |
 | 3 | 🤖 AI Request Desk | Major | ✅ Complete | React, Node.js, Express, PostgreSQL | Dec 2025 | [Repo](https://github.com/ankurkushwaha9/ai-consulting) • [Demo](https://ai-consulting--ankur0609.replit.app) |
+| 4 | 💳 Credit Card Transaction Extractor | Medium | ✅ Complete | React, Node.js, pdf-parse, ExcelJS, docx | Dec 2025 | [Repo](https://github.com/ankurkushwaha9/Credit-Card-Transaction-Extractor) |
 
-**Total Projects:** 3
+**Total Projects:** 4
 
 ---
 
 ## 🌟 Project Highlights
+
+### 💳 Credit Card Transaction Extractor
+**Financial Document Automation**
+
+Extract transactions from credit card PDF statements and export to Excel or Word for easy editing and analysis.
+
+**Key Features:**
+- Multi-bank support (Citibank, AMEX)
+- Smart transaction detection & parsing
+- Export to Excel (.xlsx) or Word (.docx)
+- Privacy-focused (no data storage)
+
+**Tech:** React 18, TypeScript, Node.js, pdf-parse, ExcelJS, docx
+
+**Docs:** [Project Details](./medium/credit-card-transaction-extractor.md)
+
+---
 
 ### 🦸‍♂️ ComicHire AI
 **Cold Outreach Revolution**
@@ -57,26 +75,28 @@ A full-stack platform helping organizations streamline AI tool access, track usa
 
 **Tech:** React 18, TypeScript, Node.js, Express, PostgreSQL, Tailwind CSS
 
+**Docs:** [Project Details](./medium/ai-consulting.md)
+
 ---
 
 ## 🎯 Project Goals
 
 ### Year 1 Targets
 - [x] 1 mini project ✅
-- [x] 1 medium project ✅ (ComicHire AI)
+- [x] 2 medium projects ✅ (ComicHire AI, Credit Card Transaction Extractor)
 - [x] 1 major project ✅ (AI Request Desk)
 - [ ] 29 more mini projects
-- [ ] 14 more medium projects
+- [ ] 13 more medium projects
 - [ ] 4 more major projects
 - **Total Target: 50 projects**
 
 ### Current Progress
 ```
 Mini Projects:    ░░░░░░░░░░ 0/30 (0%)
-Medium Projects:  █░░░░░░░░░ 1/15 (7%)
+Medium Projects:  ██░░░░░░░░ 2/15 (13%)
 Major Projects:   ██░░░░░░░░ 2/5 (40%)
 ────────────────────────────────────
-Total:            █░░░░░░░░░ 3/50 (6%)
+Total:            █░░░░░░░░░ 4/50 (8%)
 ```
 
 ---
@@ -96,15 +116,19 @@ Every project should have:
 
 | Tool | Used In |
 |------|---------|
-| React | ComicHire AI, AI Request Desk |
-| TypeScript | ComicHire AI, AI Request Desk |
-| Tailwind CSS | ComicHire AI, AI Request Desk |
-| Vite | ComicHire AI, AI Request Desk |
-| Node.js | AI Request Desk |
+| React | ComicHire AI, AI Request Desk, Credit Card Extractor |
+| TypeScript | ComicHire AI, AI Request Desk, Credit Card Extractor |
+| Tailwind CSS | ComicHire AI, AI Request Desk, Credit Card Extractor |
+| Vite | ComicHire AI, AI Request Desk, Credit Card Extractor |
+| Node.js | AI Request Desk, Credit Card Extractor |
+| Express | AI Request Desk, Credit Card Extractor |
 | PostgreSQL | AI Request Desk |
 | Gemini AI | ComicHire AI |
 | Google AI Studio | ComicHire AI |
-| Replit | AI Request Desk |
+| pdf-parse | Credit Card Extractor |
+| ExcelJS | Credit Card Extractor |
+| docx | Credit Card Extractor |
+| Replit | AI Request Desk, Credit Card Extractor |
 
 ---
 
