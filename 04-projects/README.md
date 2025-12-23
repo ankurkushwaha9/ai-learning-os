@@ -23,12 +23,32 @@
 | 2 | 🦸‍♂️ ComicHire AI | Medium | ✅ Complete | React, TypeScript, Gemini AI, Vite | Dec 2025 | [Repo](https://github.com/ankurkushwaha9/cold-outreach-comichire-ai) • [Demo](https://ai.studio/apps/drive/1AXOkgSTpzu-t23K2IREjx_nyljhspGrG) |
 | 3 | 🤖 AI Request Desk | Major | ✅ Complete | React, Node.js, Express, PostgreSQL | Dec 2025 | [Repo](https://github.com/ankurkushwaha9/ai-consulting) • [Demo](https://ai-consulting--ankur0609.replit.app) |
 | 4 | 💳 Credit Card Transaction Extractor | Medium | ✅ Complete | React, Node.js, pdf-parse, ExcelJS, docx | Dec 2025 | [Repo](https://github.com/ankurkushwaha9/Credit-Card-Transaction-Extractor) |
+| 5 | 💪 Discord Virtual Assistant (Coach Buddy) | Medium | ✅ Complete | Python, Discord.py, Groq AI, Llama 3.3 | Dec 2025 | [Repo](https://github.com/ankurkushwaha9/Discord-Virtual-Assistant) |
 
-**Total Projects:** 4
+**Total Projects:** 5
 
 ---
 
 ## 🌟 Project Highlights
+
+### 💪 Discord Virtual Assistant - Coach Buddy
+**AI-Powered Motivational Discord Bot**
+
+A friendly Discord bot powered by Groq AI (Llama 3.3 70B) designed to encourage, motivate, and help users achieve their goals.
+
+**Key Features:**
+- AI-powered responses using Groq's Llama 3.3 70B model
+- Motivational "Coach Buddy" personality
+- Simple command structure ($hello, $coach, $help)
+- Fast inference with Groq API
+
+**Tech:** Python, Discord.py, Groq API, Llama 3.3 70B, python-dotenv
+
+**Course:** MIT AAOT Module 3 Assignment
+
+**Docs:** [Project Details](./medium/discord-virtual-assistant.md)
+
+---
 
 ### 💳 Credit Card Transaction Extractor
 **Financial Document Automation**
@@ -83,20 +103,20 @@ A full-stack platform helping organizations streamline AI tool access, track usa
 
 ### Year 1 Targets
 - [x] 1 mini project ✅
-- [x] 2 medium projects ✅ (ComicHire AI, Credit Card Transaction Extractor)
-- [x] 1 major project ✅ (AI Request Desk)
+- [x] 3 medium projects ✅ (ComicHire AI, Credit Card Transaction Extractor, Discord Virtual Assistant)
+- [x] 2 major projects ✅ (AI Learning OS, AI Request Desk)
 - [ ] 29 more mini projects
-- [ ] 13 more medium projects
-- [ ] 4 more major projects
+- [ ] 12 more medium projects
+- [ ] 3 more major projects
 - **Total Target: 50 projects**
 
 ### Current Progress
 ```
 Mini Projects:    ░░░░░░░░░░ 0/30 (0%)
-Medium Projects:  ██░░░░░░░░ 2/15 (13%)
-Major Projects:   ██░░░░░░░░ 2/5 (40%)
+Medium Projects:  ██░░░░░░░░ 3/15 (20%)
+Major Projects:   ████░░░░░░ 2/5 (40%)
 ────────────────────────────────────
-Total:            █░░░░░░░░░ 4/50 (8%)
+Total:            █░░░░░░░░░ 5/50 (10%)
 ```
 
 ---
@@ -118,6 +138,10 @@ Every project should have:
 |------|---------|
 | React | ComicHire AI, AI Request Desk, Credit Card Extractor |
 | TypeScript | ComicHire AI, AI Request Desk, Credit Card Extractor |
+| Python | Discord Virtual Assistant |
+| Discord.py | Discord Virtual Assistant |
+| Groq AI | Discord Virtual Assistant |
+| Llama 3.3 | Discord Virtual Assistant |
 | Tailwind CSS | ComicHire AI, AI Request Desk, Credit Card Extractor |
 | Vite | ComicHire AI, AI Request Desk, Credit Card Extractor |
 | Node.js | AI Request Desk, Credit Card Extractor |
