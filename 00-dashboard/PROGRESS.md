@@ -6,8 +6,8 @@
 
 ## 🔥 Current Streak
 
-**Days Active:** 7  
-**Longest Streak:** 7 days  
+**Days Active:** 8  
+**Longest Streak:** 8 days  
 **Started:** December 2025
 
 ---
@@ -16,6 +16,9 @@
 
 | Date | Achievement | Category |
 |------|-------------|----------|
+| Dec 23, 2025 | 💪 Launched Discord Virtual Assistant (Coach Buddy) | Project |
+| Dec 23, 2025 | 🎓 Completed MIT AAOT Module 3 Assignment | Course |
+| Dec 22, 2025 | 💳 Launched Credit Card Transaction Extractor | Project |
 | Dec 21, 2025 | 🚀 Launched ComicHire AI | Project |
 | Dec 21, 2025 | 🚀 Launched AI Request Desk | Project |
 | Dec 21, 2025 | 📝 Created professional README for all projects | Documentation |
@@ -42,7 +45,10 @@
 - [x] Established folder structure for learning journey
 - [x] 🚀 Built & launched ComicHire AI (Gemini + React)
 - [x] 🚀 Built & launched AI Request Desk (Full-stack)
+- [x] 💳 Built & launched Credit Card Transaction Extractor
+- [x] 💪 Built & launched Discord Virtual Assistant (Coach Buddy)
 - [x] Added professional documentation to all projects
+- [x] ✅ Completed MIT AAOT Module 3 Assignment
 - [ ] Add 10 prompts to library
 - [ ] Document prompt engineering basics
 
@@ -50,6 +56,8 @@
 
 | Project | Description | Status |
 |---------|-------------|--------|
+| 💪 Discord Virtual Assistant | AI-powered motivational Discord bot (Coach Buddy) using Groq/Llama 3.3 | ✅ Live |
+| 💳 Credit Card Transaction Extractor | Extract transactions from PDF statements to Excel/Word | ✅ Live |
 | 🦸‍♂️ ComicHire AI | AI-powered comic narrative generator for job applications | ✅ Live |
 | 🤖 AI Request Desk | Enterprise AI resource management platform | ✅ Live |
 | 📚 AI Learning OS | 12-month learning journey documentation | 🟢 Active |
@@ -63,14 +71,19 @@
 - Gemini API can generate both text and images
 - Full-stack apps require careful architecture planning
 - Professional README and LICENSE are essential for portfolios
+- Discord.py makes bot development straightforward
+- Groq provides fast inference for Llama models
+- Environment variables are essential for security
 
 **Technologies Used This Month:**
 - React 18/19 + TypeScript
+- Python + Discord.py
 - Google AI Studio + Gemini Pro + Gemini Flash Image
+- Groq API + Llama 3.3 70B
 - Node.js + Express + PostgreSQL
 - Tailwind CSS + Radix UI
 - Vite + Drizzle ORM
-- GitHub + Replit
+- GitHub + Replit + Git Bash
 
 **Challenges Overcome:**
 - First time using GitHub - now comfortable with repositories
@@ -78,8 +91,9 @@
 - Setting up multiple MCPs together - documented the process
 - Learned Google AI Studio GitHub integration
 - Built first full-stack app with database
+- First Discord bot with AI integration - learned async event handling
 
-**Hours Invested:** ~15 hours
+**Hours Invested:** ~25 hours
 
 ---
 
@@ -87,12 +101,13 @@
 
 | Metric | Month 1 | Total |
 |--------|---------|-------|
-| Projects Launched | 3 | 3 |
+| Projects Launched | 5 | 5 |
 | MCPs Set Up | 2 | 2 |
 | MCPs Documented | 2 | 2 |
 | Guides Created | 2 | 2 |
-| Case Studies | 2 | 2 |
-| Hours | 15 | 15 |
+| Case Studies | 4 | 4 |
+| Course Assignments | 1 | 1 |
+| Hours | 25 | 25 |
 
 ---
 
@@ -102,9 +117,10 @@
 - Add 10 prompts to prompt library
 - Complete 2 mini-projects
 - Explore 1 new MCP (Notion or Slack)
-- Create detailed case studies for ComicHire & AI Request Desk
+- Create detailed case studies for all projects
 - Document prompt engineering techniques
 - Build a voice-enabled app with VAPI
+- Continue MIT AAOT course modules
 
 ---
 
@@ -127,13 +143,27 @@
 - Integrated Gemini Pro for text generation
 - Integrated Gemini 2.5 Flash Image for comic panel generation
 - Built AI Request Desk full-stack application
+- Built Credit Card Transaction Extractor
 - Added professional documentation to all repos
 
 **Wins:**
-- 🚀 Two production-ready projects launched!
+- 🚀 Three production-ready projects launched!
 - Learned Google AI Studio → GitHub workflow
 - Mastered professional repo documentation
 - Built first full-stack app with authentication
+
+### Week 4 (December 23, 2025)
+**Activities:**
+- Built Discord Virtual Assistant (Coach Buddy)
+- Integrated Groq API with Llama 3.3 70B model
+- Completed MIT AAOT Module 3 Assignment
+- Set up Git Bash for local development
+
+**Wins:**
+- 💪 First Discord bot with AI integration launched!
+- Learned Python async programming with Discord.py
+- Explored Groq's fast inference capabilities
+- Professional documentation with badges
 
 ---
 
@@ -141,13 +171,23 @@
 
 | Skill | Level | Progress |
 |-------|-------|----------|
-| Prompt Engineering | Beginner | ██░░░░░░░░ 20% |
+| Prompt Engineering | Beginner | ███░░░░░░░ 30% |
 | React/TypeScript | Intermediate | ██████░░░░ 60% |
-| AI Integration | Beginner | ███░░░░░░░ 30% |
+| Python | Beginner | ███░░░░░░░ 30% |
+| AI Integration | Intermediate | ████░░░░░░ 40% |
 | Full-Stack Dev | Intermediate | █████░░░░░ 50% |
-| Documentation | Intermediate | ██████░░░░ 60% |
+| Documentation | Advanced | ███████░░░ 70% |
 | MCP Configuration | Beginner | ███░░░░░░░ 30% |
+| Discord Bot Dev | Beginner | ███░░░░░░░ 30% |
 
 ---
 
-*Last Updated: December 21, 2025*
+## 🎓 Courses & Certifications
+
+| Course | Provider | Status | Progress |
+|--------|----------|--------|----------|
+| Agentic AI and Open Tools (AAOT) | MIT Professional Education | 🟢 In Progress | Module 3 ✅ |
+
+---
+
+*Last Updated: December 23, 2025*
