@@ -24,12 +24,30 @@
 | 3 | 🤖 AI Request Desk | Major | ✅ Complete | React, Node.js, Express, PostgreSQL | Dec 2025 | [Repo](https://github.com/ankurkushwaha9/ai-consulting) • [Demo](https://ai-consulting--ankur0609.replit.app) |
 | 4 | 💳 Credit Card Transaction Extractor | Medium | ✅ Complete | React, Node.js, pdf-parse, ExcelJS, docx | Dec 2025 | [Repo](https://github.com/ankurkushwaha9/Credit-Card-Transaction-Extractor) |
 | 5 | 💪 Discord Virtual Assistant (Coach Buddy) | Medium | ✅ Complete | Python, Discord.py, Groq AI, Llama 3.3 | Dec 2025 | [Repo](https://github.com/ankurkushwaha9/Discord-Virtual-Assistant) |
+| 6 | 🎧 Lyzr Customer Support Agents | Medium | ✅ Complete | Lyzr Agent Studio, GPT-4o-mini, JSON | Jan 2026 | [Repo](https://github.com/ankurkushwaha9/lyzr-customer-support-agents) • [Docs](./medium/lyzr-customer-support-agents.md) |
 
-**Total Projects:** 5
+**Total Projects:** 6
 
 ---
 
 ## 🌟 Project Highlights
+
+### 🎧 Lyzr Customer Support Multi-Agent System
+**Enterprise Multi-Agent Customer Support**
+
+A production-ready multi-agent customer support system built with Lyzr Agent Studio, featuring a Manager Agent that orchestrates three specialized sub-agents.
+
+**Key Features:**
+- Manager Agent for intelligent query routing
+- Intent classification (product_info, refund_policy, tracking)
+- Knowledge Base integration for each sub-agent
+- Full open source compliance (LICENSE, CONTRIBUTING, CODE_OF_CONDUCT, SECURITY)
+
+**Tech:** Lyzr Agent Studio, GPT-4o-mini, JSON Configuration, Knowledge Bases
+
+**Docs:** [Project Details](./medium/lyzr-customer-support-agents.md)
+
+---
 
 ### 💪 Discord Virtual Assistant - Coach Buddy
 **AI-Powered Motivational Discord Bot**
@@ -103,20 +121,20 @@ A full-stack platform helping organizations streamline AI tool access, track usa
 
 ### Year 1 Targets
 - [x] 1 mini project ✅
-- [x] 3 medium projects ✅ (ComicHire AI, Credit Card Transaction Extractor, Discord Virtual Assistant)
+- [x] 4 medium projects ✅ (ComicHire AI, Credit Card Transaction Extractor, Discord Virtual Assistant, Lyzr Customer Support Agents)
 - [x] 2 major projects ✅ (AI Learning OS, AI Request Desk)
 - [ ] 29 more mini projects
-- [ ] 12 more medium projects
+- [ ] 11 more medium projects
 - [ ] 3 more major projects
 - **Total Target: 50 projects**
 
 ### Current Progress
 ```
 Mini Projects:    ░░░░░░░░░░ 0/30 (0%)
-Medium Projects:  ██░░░░░░░░ 3/15 (20%)
+Medium Projects:  ███░░░░░░░ 4/15 (27%)
 Major Projects:   ████░░░░░░ 2/5 (40%)
 ────────────────────────────────────
-Total:            █░░░░░░░░░ 5/50 (10%)
+Total:            █░░░░░░░░░ 6/50 (12%)
 ```
 
 ---
@@ -126,9 +144,12 @@ Total:            █░░░░░░░░░ 5/50 (10%)
 Every project should have:
 1. **README.md** - Overview, features, setup instructions
 2. **LICENSE** - MIT License for open source
-3. **Professional badges** - Tech stack, status, links
-4. **Architecture docs** - How components interact
-5. **Screenshots/demos** - Visual evidence
+3. **CONTRIBUTING.md** - Contribution guidelines
+4. **CODE_OF_CONDUCT.md** - Community standards
+5. **SECURITY.md** - Security policy
+6. **Professional badges** - Tech stack, status, links
+7. **Architecture docs** - How components interact
+8. **Screenshots/demos** - Visual evidence
 
 ---
 
@@ -142,6 +163,8 @@ Every project should have:
 | Discord.py | Discord Virtual Assistant |
 | Groq AI | Discord Virtual Assistant |
 | Llama 3.3 | Discord Virtual Assistant |
+| Lyzr Agent Studio | Lyzr Customer Support Agents |
+| GPT-4o-mini | Lyzr Customer Support Agents |
 | Tailwind CSS | ComicHire AI, AI Request Desk, Credit Card Extractor |
 | Vite | ComicHire AI, AI Request Desk, Credit Card Extractor |
 | Node.js | AI Request Desk, Credit Card Extractor |
