@@ -3,7 +3,7 @@
 > A 12-month structured journey from AI beginner to advanced builder
 
 [![Progress](https://img.shields.io/badge/Month-1%20of%2012-blue)]()
-[![Projects](https://img.shields.io/badge/Projects-5-green)]()
+[![Projects](https://img.shields.io/badge/Projects-6-green)]()
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 [![GitHub followers](https://img.shields.io/github/followers/ankurkushwaha9?style=social)](https://github.com/ankurkushwaha9)
 
@@ -19,6 +19,7 @@ Master AI tools through hands-on building, creating a portfolio of real-world pr
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| 🎧 **Lyzr Customer Support Agents** | Multi-agent customer support system with Manager Agent orchestration | Lyzr Agent Studio, GPT-4o-mini | [Repo](https://github.com/ankurkushwaha9/lyzr-customer-support-agents) |
 | 💪 **Discord Virtual Assistant** | AI-powered motivational Discord bot (Coach Buddy) | Python, Discord.py, Groq AI, Llama 3.3 | [Repo](https://github.com/ankurkushwaha9/Discord-Virtual-Assistant) |
 | 💳 **Credit Card Transaction Extractor** | Extract transactions from PDF statements, export to Excel/Word | React, Node.js, pdf-parse, ExcelJS | [Repo](https://github.com/ankurkushwaha9/Credit-Card-Transaction-Extractor) |
 | 🦸‍♂️ **ComicHire AI** | AI-powered cold outreach tool that transforms resumes into comic-style narratives | React, TypeScript, Gemini AI | [Repo](https://github.com/ankurkushwaha9/cold-outreach-comichire-ai) • [Demo](https://ai.studio/apps/drive/1AXOkgSTpzu-t23K2IREjx_nyljhspGrG) |
@@ -63,9 +64,10 @@ ai-learning-os/
 ### Phase 1: Foundation (Months 1-3) ← **Current Phase**
 - [x] Master prompt engineering fundamentals
 - [x] Deep dive into Claude capabilities
-- [x] Build 5 projects ✅
+- [x] Build 6 projects ✅
 - [x] Document MCPs systematically
 - [x] Build Discord bot with AI integration ✅ (MIT AAOT Module 3)
+- [x] Build multi-agent system with Lyzr Studio ✅
 - [ ] Build 2 more mini-projects
 
 ### Phase 2: Integration (Months 4-6)
@@ -93,9 +95,10 @@ ai-learning-os/
 **This Month's Goals:**
 1. ~~Set up complete repository structure~~ ✅
 2. ~~Document all existing experiments~~ ✅
-3. ~~Create first 3 project case studies~~ ✅ (3 completed)
+3. ~~Create first 3 project case studies~~ ✅ (4 completed)
 4. ~~Complete MIT AAOT Module 3 Assignment~~ ✅ (Discord Virtual Assistant)
-5. Build prompt library foundation
+5. ~~Build multi-agent system~~ ✅ (Lyzr Customer Support Agents)
+6. Build prompt library foundation
 
 ---
 
@@ -103,11 +106,11 @@ ai-learning-os/
 
 | Metric | Target | Current | Progress |
 |--------|--------|---------|----------|
-| Projects Completed | 50 | 5 | █░░░░░░░░░ 10% |
+| Projects Completed | 50 | 6 | █░░░░░░░░░ 12% |
 | MCPs Documented | 20 | 2 | █░░░░░░░░░ 10% |
 | Prompts in Library | 100 | 0 | ░░░░░░░░░░ 0% |
-| Case Studies | 10 | 4 | ████░░░░░░ 40% |
-| Hours Invested | 500 | 25 | █░░░░░░░░░ 5% |
+| Case Studies | 10 | 5 | █████░░░░░ 50% |
+| Hours Invested | 500 | 30 | █░░░░░░░░░ 6% |
 
 ---
 
@@ -115,12 +118,13 @@ ai-learning-os/
 
 | Category | Tools |
 |----------|-------|
-| **AI Platforms** | Claude, Google AI Studio, Gemini, Groq |
-| **AI Models** | Gemini Pro, Gemini Flash Image, Llama 3.3 70B |
+| **AI Platforms** | Claude, Google AI Studio, Gemini, Groq, Lyzr Agent Studio |
+| **AI Models** | Gemini Pro, Gemini Flash Image, Llama 3.3 70B, GPT-4o-mini |
 | **Frontend** | React, TypeScript, Tailwind CSS, Vite |
 | **Backend** | Node.js, Express, PostgreSQL, Python |
 | **Bot Frameworks** | Discord.py |
 | **Document Processing** | pdf-parse, ExcelJS, docx |
+| **Multi-Agent Systems** | Lyzr Agent Studio |
 | **Dev Tools** | GitHub, Replit, VS Code, Git Bash |
 
 ---
@@ -129,6 +133,7 @@ ai-learning-os/
 
 | Date | Update |
 |------|--------|
+| Jan 24, 2026 | 🎧 Launched Lyzr Customer Support Agents - Multi-agent system with full open source compliance |
 | Dec 23, 2025 | 💪 Launched Discord Virtual Assistant (Coach Buddy) - MIT AAOT Module 3 |
 | Dec 22, 2025 | 💳 Launched Credit Card Transaction Extractor - PDF statement parser |
 | Dec 21, 2025 | 🚀 Launched ComicHire AI - AI-powered comic narrative generator |
@@ -154,5 +159,5 @@ ai-learning-os/
 
 ---
 
-*Last Updated: December 23, 2025*
+*Last Updated: January 24, 2026*
 *Started: December 2025*
