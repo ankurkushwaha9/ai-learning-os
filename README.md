@@ -3,8 +3,9 @@
 > A 12-month structured journey from AI beginner to advanced builder
 
 [![Progress](https://img.shields.io/badge/Month-1%20of%2012-blue)]()
-[![Projects](https://img.shields.io/badge/Projects-6-green)]()
+[![Projects](https://img.shields.io/badge/Projects-7-green)]()
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 [![GitHub followers](https://img.shields.io/github/followers/ankurkushwaha9?style=social)](https://github.com/ankurkushwaha9)
 
 ---
@@ -19,6 +20,7 @@ Master AI tools through hands-on building, creating a portfolio of real-world pr
 
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
+| 💪 **FitTrack-Pro** | AI-powered fitness tracking with goal management, workout logging & AI motivation | FastAPI, React, MongoDB, JWT, slowapi | [Repo](https://github.com/ankurkushwaha9/FitTrack-Pro) |
 | 🎧 **Lyzr Customer Support Agents** | Multi-agent customer support system with Manager Agent orchestration | Lyzr Agent Studio, GPT-4o-mini | [Repo](https://github.com/ankurkushwaha9/lyzr-customer-support-agents) |
 | 💪 **Discord Virtual Assistant** | AI-powered motivational Discord bot (Coach Buddy) | Python, Discord.py, Groq AI, Llama 3.3 | [Repo](https://github.com/ankurkushwaha9/Discord-Virtual-Assistant) |
 | 💳 **Credit Card Transaction Extractor** | Extract transactions from PDF statements, export to Excel/Word | React, Node.js, pdf-parse, ExcelJS | [Repo](https://github.com/ankurkushwaha9/Credit-Card-Transaction-Extractor) |
@@ -64,11 +66,12 @@ ai-learning-os/
 ### Phase 1: Foundation (Months 1-3) ← **Current Phase**
 - [x] Master prompt engineering fundamentals
 - [x] Deep dive into Claude capabilities
-- [x] Build 6 projects ✅
+- [x] Build 7 projects ✅
 - [x] Document MCPs systematically
 - [x] Build Discord bot with AI integration ✅ (MIT AAOT Module 3)
 - [x] Build multi-agent system with Lyzr Studio ✅
-- [ ] Build 2 more mini-projects
+- [x] Build FitTrack-Pro with security best practices ✅
+- [ ] Build 1 more mini-project
 
 ### Phase 2: Integration (Months 4-6)
 - [ ] Connect multiple AI tools in workflows
@@ -95,10 +98,11 @@ ai-learning-os/
 **This Month's Goals:**
 1. ~~Set up complete repository structure~~ ✅
 2. ~~Document all existing experiments~~ ✅
-3. ~~Create first 3 project case studies~~ ✅ (4 completed)
+3. ~~Create first 3 project case studies~~ ✅ (5 completed)
 4. ~~Complete MIT AAOT Module 3 Assignment~~ ✅ (Discord Virtual Assistant)
 5. ~~Build multi-agent system~~ ✅ (Lyzr Customer Support Agents)
-6. Build prompt library foundation
+6. ~~Build secure fitness tracking app~~ ✅ (FitTrack-Pro)
+7. Build prompt library foundation
 
 ---
 
@@ -106,11 +110,11 @@ ai-learning-os/
 
 | Metric | Target | Current | Progress |
 |--------|--------|---------|----------|
-| Projects Completed | 50 | 6 | █░░░░░░░░░ 12% |
+| Projects Completed | 50 | 7 | █░░░░░░░░░ 14% |
 | MCPs Documented | 20 | 2 | █░░░░░░░░░ 10% |
 | Prompts in Library | 100 | 0 | ░░░░░░░░░░ 0% |
-| Case Studies | 10 | 5 | █████░░░░░ 50% |
-| Hours Invested | 500 | 30 | █░░░░░░░░░ 6% |
+| Case Studies | 10 | 6 | ██████░░░░ 60% |
+| Hours Invested | 500 | 40 | █░░░░░░░░░ 8% |
 
 ---
 
@@ -121,7 +125,8 @@ ai-learning-os/
 | **AI Platforms** | Claude, Google AI Studio, Gemini, Groq, Lyzr Agent Studio |
 | **AI Models** | Gemini Pro, Gemini Flash Image, Llama 3.3 70B, GPT-4o-mini |
 | **Frontend** | React, TypeScript, Tailwind CSS, Vite |
-| **Backend** | Node.js, Express, PostgreSQL, Python |
+| **Backend** | Node.js, Express, PostgreSQL, Python, FastAPI, MongoDB |
+| **Security** | JWT, bcrypt, slowapi (rate limiting), Pydantic |
 | **Bot Frameworks** | Discord.py |
 | **Document Processing** | pdf-parse, ExcelJS, docx |
 | **Multi-Agent Systems** | Lyzr Agent Studio |
@@ -133,6 +138,7 @@ ai-learning-os/
 
 | Date | Update |
 |------|--------|
+| Jan 25, 2026 | 💪 Launched FitTrack-Pro with full security implementation (JWT, CORS, Rate Limiting) |
 | Jan 24, 2026 | 🎧 Launched Lyzr Customer Support Agents - Multi-agent system with full open source compliance |
 | Dec 23, 2025 | 💪 Launched Discord Virtual Assistant (Coach Buddy) - MIT AAOT Module 3 |
 | Dec 22, 2025 | 💳 Launched Credit Card Transaction Extractor - PDF statement parser |
@@ -152,6 +158,21 @@ ai-learning-os/
 
 ---
 
+## 🔒 Security Standards
+
+All projects follow security best practices:
+- ✅ JWT Authentication with expiration
+- ✅ bcrypt password hashing
+- ✅ Rate limiting on all endpoints
+- ✅ CORS configuration with explicit origins
+- ✅ Input validation with Pydantic/Zod
+- ✅ Environment variables for secrets
+- ✅ No credentials in repositories
+
+See [SECURITY.md](SECURITY.md) for our security policy.
+
+---
+
 ## 🔗 Connect
 
 - **GitHub:** [@ankurkushwaha9](https://github.com/ankurkushwaha9)
@@ -159,5 +180,11 @@ ai-learning-os/
 
 ---
 
-*Last Updated: January 24, 2026*
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+*Last Updated: January 25, 2026*
 *Started: December 2025*
