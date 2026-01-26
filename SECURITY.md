@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-This repository is actively maintained. Security updates are applied to the latest version.
+This repository and all related projects are actively maintained. Security updates are applied to the latest versions.
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -44,20 +44,68 @@ If you report a valid security vulnerability, I'll:
 
 ## Security Best Practices
 
-This project follows these security practices:
+All projects in this organization follow these security practices:
 
-- ✅ Dependencies regularly updated
+### Authentication & Authorization
+- ✅ JWT Authentication with token expiration
+- ✅ bcrypt password hashing with automatic salting
+- ✅ Token-based API protection for authenticated endpoints
+
+### Rate Limiting
+- ✅ Authentication endpoints: 5-10 requests/minute
+- ✅ API endpoints: 20-60 requests/minute
+- ✅ AI/external API endpoints: Limited per hour
+
+### CORS Protection
+- ✅ Explicit origin allowlist (no wildcard in production)
+- ✅ Restricted HTTP methods and headers
+- ✅ Credentials support with proper origin validation
+
+### Data Protection
+- ✅ Environment variables for sensitive configuration
+- ✅ No secrets committed to repositories
+- ✅ Input validation using Pydantic/Zod models
 - ✅ Secret scanning enabled
-- ✅ No secrets committed to repository
-- ✅ MIT License for transparency
 
 ## Scope
 
 This security policy applies to:
-- [AI Learning OS](https://github.com/ankurkushwaha9/ai-learning-os)
-- [Cold Outreach ComicHire AI](https://github.com/ankurkushwaha9/cold-outreach-comichire-ai)
-- [AI Consulting (AI Request Desk)](https://github.com/ankurkushwaha9/ai-consulting)
+
+| Project | Repository |
+|---------|------------|
+| AI Learning OS | [ai-learning-os](https://github.com/ankurkushwaha9/ai-learning-os) |
+| FitTrack-Pro | [FitTrack-Pro](https://github.com/ankurkushwaha9/FitTrack-Pro) |
+| Credit Card Transaction Extractor | [Credit-Card-Transaction-Extractor](https://github.com/ankurkushwaha9/Credit-Card-Transaction-Extractor) |
+| Cold Outreach ComicHire AI | [cold-outreach-comichire-ai](https://github.com/ankurkushwaha9/cold-outreach-comichire-ai) |
+| AI Request Desk | [ai-consulting](https://github.com/ankurkushwaha9/ai-consulting) |
+| Discord Virtual Assistant | [Discord-Virtual-Assistant](https://github.com/ankurkushwaha9/Discord-Virtual-Assistant) |
+| Lyzr Customer Support Agents | [lyzr-customer-support-agents](https://github.com/ankurkushwaha9/lyzr-customer-support-agents) |
+
+## Security Implementation Checklist
+
+For new projects, ensure the following:
+
+### Backend Security
+- [ ] JWT tokens with expiration (`exp` claim)
+- [ ] JWT tokens with issued at (`iat` claim)
+- [ ] bcrypt password hashing (min 10 rounds)
+- [ ] Rate limiting on all public endpoints
+- [ ] CORS with explicit origins (no `*` in production)
+- [ ] Input validation on all endpoints
+- [ ] No sensitive data in logs
+
+### Frontend Security
+- [ ] No hardcoded secrets
+- [ ] Secure token storage
+- [ ] XSS protection
+- [ ] CSRF protection where applicable
+
+### Repository Security
+- [ ] `.gitignore` includes all sensitive files
+- [ ] `.env.example` provided (no real values)
+- [ ] No credentials in commit history
+- [ ] Dependency updates regular
 
 ---
 
-Thank you for helping keep this project secure! 🙏
+Thank you for helping keep these projects secure! 🙏
