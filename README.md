@@ -152,9 +152,9 @@ ai-learning-os/
 
 ## 🎓 Courses & Certifications
 
-| Course | Provider | Status |
-|--------|----------|--------|
-| Agentic AI and Open Tools (AAOT) | MIT Professional Education | 🟢 In Progress |
+| Course | Provider | Status | Progress |
+|--------|----------|--------|----------|
+| Agentic AI and Open Tools (AAOT) | MIT Professional Education | 🟢 In Progress | Module 6 ✅ |
 
 ---
 
