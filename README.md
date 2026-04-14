@@ -1,11 +1,11 @@
 # 🧠 AI Learning OS
 
-> A 12-month structured journey from AI beginner to advanced builder
+> Documented AI/ML learning journey — MIT Agentic AI, Groq, n8n, MCP, LangChain, Gemini, voice agents, and no-code AI. Projects, case studies, and build logs.
 
-[![Progress](https://img.shields.io/badge/Month-1%20of%2012-blue)]()
-[![Projects](https://img.shields.io/badge/Projects-7-green)]()
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
+[![Progress](https://img.shields.io/badge/Month-1%20of%2012-blue)]()\
+[![Projects](https://img.shields.io/badge/Projects-7-green)]()\
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()\
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()\
 [![GitHub followers](https://img.shields.io/github/followers/ankurkushwaha9?style=social)](https://github.com/ankurkushwaha9)
 
 ---
@@ -24,8 +24,8 @@ Master AI tools through hands-on building, creating a portfolio of real-world pr
 | 🎧 **Lyzr Customer Support Agents** | Multi-agent customer support system with Manager Agent orchestration | Lyzr Agent Studio, GPT-4o-mini | [Repo](https://github.com/ankurkushwaha9/lyzr-customer-support-agents) |
 | 💪 **Discord Virtual Assistant** | AI-powered motivational Discord bot (Coach Buddy) | Python, Discord.py, Groq AI, Llama 3.3 | [Repo](https://github.com/ankurkushwaha9/Discord-Virtual-Assistant) |
 | 💳 **Credit Card Transaction Extractor** | Extract transactions from PDF statements, export to Excel/Word | React, Node.js, pdf-parse, ExcelJS | [Repo](https://github.com/ankurkushwaha9/Credit-Card-Transaction-Extractor) |
-| 🦸‍♂️ **ComicHire AI** | AI-powered cold outreach tool that transforms resumes into comic-style narratives | React, TypeScript, Gemini AI | [Repo](https://github.com/ankurkushwaha9/cold-outreach-comichire-ai) • [Demo](https://ai.studio/apps/drive/1AXOkgSTpzu-t23K2IREjx_nyljhspGrG) |
-| 🤖 **AI Request Desk** | Enterprise AI resource management platform | React, Node.js, PostgreSQL, Express | [Repo](https://github.com/ankurkushwaha9/ai-consulting) • [Demo](https://ai-consulting--ankur0609.replit.app) |
+| 🦸‍♂️ **ComicHire AI** | Multimodal AI cold outreach tool — Gemini 2.5 generates 8-panel comic narratives from resumes | React, TypeScript, Gemini AI | [Repo](https://github.com/ankurkushwaha9/cold-outreach-comichire-ai) • [Demo](https://ai.studio/apps/drive/1AXOkgSTpzu-t23K2IREjx_nyljhspGrG) |
+| 🤖 **AI Request Desk** | Enterprise AI governance platform — request management, approval workflows, usage analytics | React, Node.js, PostgreSQL, Express | [Repo](https://github.com/ankurkushwaha9/ai-consulting) • [Demo](https://ai-consulting--ankur0609.replit.app) |
 | 📚 **AI Learning OS** | 12-month structured learning journey | Markdown, GitHub | You're here! |
 
 ---
@@ -124,6 +124,7 @@ ai-learning-os/
 |----------|-------|
 | **AI Platforms** | Claude, Google AI Studio, Gemini, Groq, Lyzr Agent Studio |
 | **AI Models** | Gemini Pro, Gemini Flash Image, Llama 3.3 70B, GPT-4o-mini |
+| **Agentic AI** | MCP (Model Context Protocol), n8n workflow automation, voice agents |
 | **Frontend** | React, TypeScript, Tailwind CSS, Vite |
 | **Backend** | Node.js, Express, PostgreSQL, Python, FastAPI, MongoDB |
 | **Security** | JWT, bcrypt, slowapi (rate limiting), Pydantic |
@@ -134,27 +135,26 @@ ai-learning-os/
 
 ---
 
+## 🎓 Courses & Certifications
+
+| Course | Provider | Status | Completed |
+|--------|----------|--------|-----------|
+| Applied Agentic AI for Organizational Transformation | MIT Professional Education | ✅ Complete | Feb 10, 2026 |
+| Generative AI Sprint (AI for Founders and Business) | Outskill / NSDC | ✅ Complete | Jan 25, 2026 |
+
+---
+
 ## 📝 Recent Updates
 
 | Date | Update |
 |------|--------|
+| Feb 2026 | 🎓 Completed MIT Applied Agentic AI for Organizational Transformation (70 hrs) |
 | Jan 25, 2026 | 💪 Launched FitTrack-Pro with full security implementation (JWT, CORS, Rate Limiting) |
-| Jan 24, 2026 | 🎧 Launched Lyzr Customer Support Agents - Multi-agent system with full open source compliance |
+| Jan 25, 2026 | 🎓 Completed Outskill Generative AI Sprint (n8n, MCP, Voice Agents, Multimodal AI) |
+| Jan 24, 2026 | 🎧 Launched Lyzr Customer Support Agents - Multi-agent system |
 | Dec 23, 2025 | 💪 Launched Discord Virtual Assistant (Coach Buddy) - MIT AAOT Module 3 |
-| Dec 22, 2025 | 💳 Launched Credit Card Transaction Extractor - PDF statement parser |
-| Dec 21, 2025 | 🚀 Launched ComicHire AI - AI-powered comic narrative generator |
-| Dec 21, 2025 | 🚀 Launched AI Request Desk - Enterprise AI management platform |
-| Dec 21, 2025 | 📝 Added professional README & LICENSE to all projects |
-| Dec 2025 | 🔧 Configured GitHub & VAPI MCPs |
-| Dec 2025 | 📚 Created AI Learning OS repository |
-
----
-
-## 🎓 Courses & Certifications
-
-| Course | Provider | Status | Progress |
-|--------|----------|--------|----------|
-| Agentic AI and Open Tools (AAOT) | MIT Professional Education | 🟢 In Progress | Module 6 ✅ |
+| Dec 21, 2025 | 🚀 Launched ComicHire AI - Multimodal AI comic narrative generator |
+| Dec 21, 2025 | 🚀 Launched AI Request Desk - Enterprise AI governance platform |
 
 ---
 
@@ -169,8 +169,6 @@ All projects follow security best practices:
 - ✅ Environment variables for secrets
 - ✅ No credentials in repositories
 
-See [SECURITY.md](SECURITY.md) for our security policy.
-
 ---
 
 ## 🔗 Connect
@@ -182,9 +180,8 @@ See [SECURITY.md](SECURITY.md) for our security policy.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+MIT License
 
 ---
 
-*Last Updated: January 25, 2026*
-*Started: December 2025*
+*Last Updated: April 2026*
